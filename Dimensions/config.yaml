@@ -1,0 +1,10 @@
+required:
+- REGION
+- TERRITORY
+- PRODUCT_TOWER
+- PROFIT_CENTER
+- LOB
+- SUBLOB
+nodefault:
+- REGION
+- TERRITORY
